@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="240" viewBox="0 0 840 240" role="img" aria-labelledby="title desc">
+<title id="title">Yuri Sampaio Ferreira — Desenvolvimento de Sistemas</title>
+<desc id="desc">Arte original do perfil de Yuri Sampaio Ferreira, em azul e violeta.</desc>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1120"/><stop offset="1" stop-color="#19132e"/></linearGradient>
+<linearGradient id="accent"><stop stop-color="#38bdf8"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#8798c2" stroke-opacity=".07"/></pattern>
+<clipPath id="unused"><rect width="840" height="240" rx="20"/></clipPath></defs>
+<style>.fallback{display:none} @media(prefers-reduced-motion:reduce){.motion{display:none}.fallback{display:inline}}</style>
+<rect x="1" y="1" width="838" height="238" rx="20" fill="url(#bg)" stroke="#33415c"/>
+<rect x="1" y="1" width="838" height="238" rx="20" fill="url(#grid)"/>
+
+<text x="420" y="43" text-anchor="middle" fill="#a5b4fc" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="3">YURI-DEV1905 / BRASIL</text>
+<text x="420" y="109" text-anchor="middle" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="52" font-weight="700" letter-spacing="-1">Yuri Sampaio Ferreira</text>
+<text x="420" y="155" text-anchor="middle" fill="#b9dfff" font-family="Arial, Helvetica, sans-serif" font-size="25">Desenvolvimento de Sistemas</text>
+<g transform="translate(0 0)"><g class="motion" fill="none" stroke="url(#accent)">
+<path opacity=".65" stroke-width="2" d="M-80 219 Q60 179 200 219 T480 219 T760 219 T1040 219"><animateTransform attributeName="transform" type="translate" values="0 0;-280 0" dur="12s" repeatCount="indefinite"/></path>
+<path opacity=".25" stroke-width="22" d="M-80 242 Q60 204 200 242 T480 242 T760 242 T1040 242"><animateTransform attributeName="transform" type="translate" values="-280 0;0 0" dur="17s" repeatCount="indefinite"/></path>
+</g></g>
+<path d="M30 1H810" stroke="url(#accent)" stroke-width="3"/>
+
+</svg>
