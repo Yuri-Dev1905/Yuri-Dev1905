@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="274" viewBox="0 0 720 274" role="img" aria-labelledby="title desc">
+<title id="title">Ciclo de aprendizado: estudar, construir, testar, revisar, documentar e melhorar</title>
+<desc id="desc">Arte original do perfil de Yuri Sampaio Ferreira, em azul e violeta.</desc>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1120"/><stop offset="1" stop-color="#19132e"/></linearGradient>
+<linearGradient id="accent"><stop stop-color="#38bdf8"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#8798c2" stroke-opacity=".07"/></pattern>
+</defs>
+<style>.fallback{display:none} @media(prefers-reduced-motion:reduce){.motion{display:none}.fallback{display:inline}}</style>
+<rect x="1" y="1" width="718" height="272" rx="20" fill="url(#bg)" stroke="#33415c"/>
+<rect x="1" y="1" width="718" height="272" rx="20" fill="url(#grid)"/>
+<rect x="22" y="22" width="676" height="230" rx="14" fill="#0d1525" stroke="#36415b"/>
+<path d="M22 66H698" stroke="#36415b"/>
+<circle cx="43" cy="44" r="6" fill="#a78bfa"/><circle cx="65" cy="44" r="6" fill="#60a5fa"/><circle cx="87" cy="44" r="6" fill="#67e8f9"/>
+<text x="129" y="51" fill="#c3cfe4" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="18">yuri / ciclo-de-aprendizado</text>
+<text x="43" y="113" fill="#7dd3fc" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="23">$ aprender --com-pratica</text>
+<text x="43" y="156" fill="#e7edf8" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="22">estudar → construir → testar</text>
+<text x="43" y="199" fill="#c4b5fd" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="22">revisar → documentar → melhorar</text>
+<path d="M43 228H677" stroke="#26354e" stroke-width="5" stroke-linecap="round"/>
+<path class="motion" d="M43 228H677" stroke="url(#accent)" stroke-width="5" stroke-linecap="round" stroke-dasharray="90 544"><animate attributeName="stroke-dashoffset" values="634;0" dur="6s" repeatCount="indefinite"/></path>
+</svg>

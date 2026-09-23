@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="430" viewBox="0 0 840 430" role="img" aria-labelledby="title desc">
+<title id="title">Plano de estudos: lógica, web, dados, Python, projetos e Engenharia de Software</title>
+<desc id="desc">Arte original do perfil de Yuri Sampaio Ferreira, em azul e violeta.</desc>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1120"/><stop offset="1" stop-color="#19132e"/></linearGradient>
+<linearGradient id="accent"><stop stop-color="#38bdf8"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#8798c2" stroke-opacity=".07"/></pattern>
+</defs>
+<style>.fallback{display:none} @media(prefers-reduced-motion:reduce){.motion{display:none}.fallback{display:inline}}</style>
+<rect x="1" y="1" width="838" height="428" rx="20" fill="url(#bg)" stroke="#33415c"/>
+<rect x="1" y="1" width="838" height="428" rx="20" fill="url(#grid)"/>
+<text x="28" y="39" fill="#cbd5ff" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="2">MINHA TRILHA DE ESTUDOS</text><g transform="translate(24 72)">
+<rect width="252" height="154" rx="14" fill="#141f33" stroke="#3b4a67"/>
+<rect class="motion" width="252" height="154" rx="14" fill="none" stroke="#7dd3fc" stroke-width="2" opacity="0"><animate attributeName="opacity" values="0;.9;0;0" keyTimes="0;.08;.17;1" dur="18s" begin="0s" repeatCount="indefinite"/></rect>
+<text x="18" y="32" fill="#a78bfa" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="700">01</text>
+<text x="18" y="72" fill="#f1f5ff" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700">Lógica</text>
+<text x="18" y="109" fill="#bbcae3" font-family="Arial, Helvetica, sans-serif" font-size="19">Exercícios<tspan x="18" dy="24">e algoritmos</tspan></text></g><g transform="translate(294 72)">
+<rect width="252" height="154" rx="14" fill="#141f33" stroke="#3b4a67"/>
+<rect class="motion" width="252" height="154" rx="14" fill="none" stroke="#7dd3fc" stroke-width="2" opacity="0"><animate attributeName="opacity" values="0;.9;0;0" keyTimes="0;.08;.17;1" dur="18s" begin="3s" repeatCount="indefinite"/></rect>
+<text x="18" y="32" fill="#a78bfa" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="700">02</text>
+<text x="18" y="72" fill="#f1f5ff" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700">Web</text>
+<text x="18" y="109" fill="#bbcae3" font-family="Arial, Helvetica, sans-serif" font-size="19">HTML, CSS<tspan x="18" dy="24">e JavaScript</tspan></text></g><g transform="translate(564 72)">
+<rect width="252" height="154" rx="14" fill="#141f33" stroke="#3b4a67"/>
+<rect class="motion" width="252" height="154" rx="14" fill="none" stroke="#7dd3fc" stroke-width="2" opacity="0"><animate attributeName="opacity" values="0;.9;0;0" keyTimes="0;.08;.17;1" dur="18s" begin="6s" repeatCount="indefinite"/></rect>
+<text x="18" y="32" fill="#a78bfa" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="700">03</text>
+<text x="18" y="72" fill="#f1f5ff" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700">Dados</text>
+<text x="18" y="109" fill="#bbcae3" font-family="Arial, Helvetica, sans-serif" font-size="19">MySQL<tspan x="18" dy="24">e consultas SQL</tspan></text></g><g transform="translate(24 250)">
+<rect width="252" height="154" rx="14" fill="#141f33" stroke="#3b4a67"/>
+<rect class="motion" width="252" height="154" rx="14" fill="none" stroke="#7dd3fc" stroke-width="2" opacity="0"><animate attributeName="opacity" values="0;.9;0;0" keyTimes="0;.08;.17;1" dur="18s" begin="9s" repeatCount="indefinite"/></rect>
+<text x="18" y="32" fill="#a78bfa" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="700">04</text>
+<text x="18" y="72" fill="#f1f5ff" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700">Python</text>
+<text x="18" y="109" fill="#bbcae3" font-family="Arial, Helvetica, sans-serif" font-size="19">Fundamentos<tspan x="18" dy="24">e prática</tspan></text></g><g transform="translate(294 250)">
+<rect width="252" height="154" rx="14" fill="#141f33" stroke="#3b4a67"/>
+<rect class="motion" width="252" height="154" rx="14" fill="none" stroke="#7dd3fc" stroke-width="2" opacity="0"><animate attributeName="opacity" values="0;.9;0;0" keyTimes="0;.08;.17;1" dur="18s" begin="12s" repeatCount="indefinite"/></rect>
+<text x="18" y="32" fill="#a78bfa" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="700">05</text>
+<text x="18" y="72" fill="#f1f5ff" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700">Projetos</text>
+<text x="18" y="109" fill="#bbcae3" font-family="Arial, Helvetica, sans-serif" font-size="19">Integração<tspan x="18" dy="24">e organização</tspan></text></g><g transform="translate(564 250)">
+<rect width="252" height="154" rx="14" fill="#141f33" stroke="#3b4a67"/>
+<rect class="motion" width="252" height="154" rx="14" fill="none" stroke="#7dd3fc" stroke-width="2" opacity="0"><animate attributeName="opacity" values="0;.9;0;0" keyTimes="0;.08;.17;1" dur="18s" begin="15s" repeatCount="indefinite"/></rect>
+<text x="18" y="32" fill="#a78bfa" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="700">06</text>
+<text x="18" y="72" fill="#f1f5ff" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700">Engenharia</text>
+<text x="18" y="109" fill="#bbcae3" font-family="Arial, Helvetica, sans-serif" font-size="19">Requisitos, testes<tspan x="18" dy="24">e qualidade</tspan></text></g>
+</svg>
