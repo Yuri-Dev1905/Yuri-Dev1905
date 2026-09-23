@@ -28,13 +28,13 @@
 
 <a id="sobre-mim"></a>
 
-# 👨‍💻 Quem sou eu
+# Quem sou eu
 
 Sou o **Yuri**, estudante de **Desenvolvimento de Sistemas**, construindo minha base em programação com foco em **Engenharia de Software**. Quero transformar o que aprendo em projetos úteis e acompanhar minha evolução por aqui.
 
 | Formação | Informação |
 | :--- | :--- |
-| **País** | 🇧🇷 Brasil |
+| **País** | Brasil |
 | **Instituição** | Centro Paula Souza |
 | **Escola** | ETEC Vereador Valdivino Marcusso |
 | **Curso** | Desenvolvimento de Sistemas |
@@ -43,9 +43,9 @@ Sou o **Yuri**, estudante de **Desenvolvimento de Sistemas**, construindo minha 
 
 <a id="tecnologias"></a>
 
-# 🛠️ Tecnologias que utilizo
+# Tecnologias que utilizo
 
-## 🌐 Desenvolvimento
+## Desenvolvimento
 
 <p>
   <img src="./assets/icons/HTML.svg" width="60" height="60" alt="HTML" />
@@ -55,7 +55,7 @@ Sou o **Yuri**, estudante de **Desenvolvimento de Sistemas**, construindo minha 
 
 **HTML · CSS · JavaScript**
 
-## 🗄️ Banco de dados
+## Banco de dados
 
 <p>
   <img src="./assets/icons/MySQL-Dark.svg" width="60" height="60" alt="MySQL" />
@@ -63,7 +63,7 @@ Sou o **Yuri**, estudante de **Desenvolvimento de Sistemas**, construindo minha 
 
 **MySQL**
 
-## 🔧 Ferramentas
+## Ferramentas
 
 <p>
   <img src="./assets/icons/Git.svg" width="60" height="60" alt="Git" />
@@ -77,7 +77,7 @@ Sou o **Yuri**, estudante de **Desenvolvimento de Sistemas**, construindo minha 
 
 <a id="aprendizado"></a>
 
-# 📚 O que quero aprender e aprofundar
+# O que quero aprender e aprofundar
 
 <p>
   <img src="./assets/icons/Python-Dark.svg" width="60" height="60" alt="Python" />
@@ -85,13 +85,13 @@ Sou o **Yuri**, estudante de **Desenvolvimento de Sistemas**, construindo minha 
   <img src="./assets/icons/MySQL-Dark.svg" width="60" height="60" alt="MySQL" />
 </p>
 
-- 🐍 **Python:** aprender a linguagem e praticar com pequenos programas.
-- ⚙️ **JavaScript:** aprofundar meus conhecimentos e criar interações.
-- 🗃️ **Dados:** estudar modelagem, relacionamentos e consultas SQL.
-- 🌐 **Web:** desenvolver projetos cada vez mais completos.
-- 🧩 **Lógica:** fortalecer o raciocínio e a resolução de problemas.
+- **Python:** aprender a linguagem e praticar com pequenos programas.
+- **JavaScript:** aprofundar meus conhecimentos e criar interações.
+- **Dados:** estudar modelagem, relacionamentos e consultas SQL.
+- **Web:** desenvolver projetos cada vez mais completos.
+- **Lógica:** fortalecer o raciocínio e a resolução de problemas.
 
-## 🧭 Minha trilha de estudos
+## Minha trilha de estudos
 
 **Lógica → Desenvolvimento web → Dados → Python → Projetos → Engenharia de Software**
 
@@ -99,7 +99,7 @@ Sou o **Yuri**, estudante de **Desenvolvimento de Sistemas**, construindo minha 
 
 <a id="projetos"></a>
 
-# 🚀 Projetos que quero desenvolver
+# Projetos que quero desenvolver
 
 | Ideia | O que quero praticar |
 | :--- | :--- |
@@ -112,13 +112,13 @@ Sou o **Yuri**, estudante de **Desenvolvimento de Sistemas**, construindo minha 
 
 ---
 
-# 🔄 Como quero aprender
+# Como quero aprender
 
 <p align="center">
   <img src="./assets/learning.svg" width="720" alt="Estudar, construir, testar, revisar, documentar e melhorar." />
 </p>
 
-# 🎯 Meu objetivo
+# Meu objetivo
 
 Construir uma base sólida em **Engenharia de Software**, desenvolver projetos próprios e aprender a planejar, testar e melhorar sistemas.
 
@@ -126,7 +126,7 @@ Construir uma base sólida em **Engenharia de Software**, desenvolver projetos p
 
 <a id="contato"></a>
 
-# 📫 Contato
+# Contato
 
 <p align="center">
   <a href="https://www.instagram.com/yuri.xdk/"><img src="./assets/icons/Instagram.svg" width="48" height="48" alt="Instagram" /></a>
